@@ -1,8 +1,10 @@
 package nl.test.probeer.prog;
 
-public class DerdeKlasse {
+import java.security.PublicKey;
 
-    public void Derde() {
+public class VierdeKlasse {
+
+    public void Vierde() {
         System.out.println("Dit is de vierde code");
     }
 }
