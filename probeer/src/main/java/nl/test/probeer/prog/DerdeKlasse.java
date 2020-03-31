@@ -1,8 +1,8 @@
 package nl.test.probeer.prog;
 
-public class TweedeKlasse {
+public class DerdeKlasse {
 
-    public void Tweede() {
+    public void Derde() {
         System.out.println("Dit is de derde code");
     }
 }
